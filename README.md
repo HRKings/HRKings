@@ -14,6 +14,12 @@
       <img src="https://github-profile-trophy.vercel.app/?username=HRKings&rank=SECRET,SSS,SS,S,AAA,AA,A&row=5&column=4&theme=juicyfresh">
     </a>
   </div>
+</div>
+
+----
+
+<div align="center">
+  <h3>📨 How to reach me 🔊</h3>
   <div>
     <a href="https://reddit.com/u/HRKings"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
     <a href="https://twitter.com/TheHRKings"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
