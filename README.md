@@ -4,6 +4,20 @@
 
 ---
 
+> 🖥️ I am working as a **Solutions Architect**
+>
+> 🌱 I’m currently learning a *bit of everything*, **knowledge is key**
+> 
+> 🔭 I’m currently working on *templates and guides* for a better **Developer Experience**
+> 
+> 🤔 Interested in everything **technology related, games and Pokemon**
+> 
+> 💬 Let's chat! I'm active on many communities
+> 
+> ❤️ **Open Source**
+
+---
+
   <a href="https://github.com/HRKings">
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HRKings&show_icons=true&count_private=true&bg_color=0D0C15&text_color=ffffff&title_color=FFD700&icon_color=c71c1c&border_radius=0.5rem)
@@ -13,11 +27,8 @@
   ![Trophies](https://github-profile-trophy.vercel.app/?username=HRKings&rank=SECRET,SSS,SS,S,AAA,AA,A&row=5&column=4&theme=juicyfresh)
 
   </a>
-</div>
 
 ----
-
-<div align="center">
 
   ### 📨 Where you can find me 🔊
 
