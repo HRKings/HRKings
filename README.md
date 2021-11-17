@@ -30,7 +30,7 @@
 
 ----
 
-  ### 📨 Where you can find me 🔊
+  ### 🌎 Where you can find me 📬
 
   [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/HRKings)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheHRKings)
@@ -43,7 +43,7 @@
 
   ## 🚀 Languages, technologies, services and tools that I use 💻
 
-  ### Databases
+  ### 📚 Databases
   [
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -54,7 +54,7 @@
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ](https://github.com/HRKings)
 
-  ### Tools
+  ### 🛠️ Tools
   [
   ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -68,7 +68,7 @@
   ![Rider](https://img.shields.io/badge/Rider-white?style=for-the-badge&logo=rider&logoColor=black)
   ](https://github.com/HRKings)
 
-  ### Languages
+  ### 🧑‍💻 Languages
   [
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -81,7 +81,7 @@
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ](https://github.com/HRKings)
 
-  ### Frameworks
+  ### 🧰 Frameworks
   [
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -89,14 +89,14 @@
   ![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
   ](https://github.com/HRKings)
 
-  ### Cloud
+  ### ☁️ Cloud
   [
   ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-black.svg?style=for-the-badge&logo=vercel&logoColor=white)
   ](https://github.com/HRKings)
 
-  ### Misc
+  ### 🧭 Misc
   [
   ![Latex](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -107,7 +107,7 @@
   ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
   ](https://github.com/HRKings)
 
-  ### OS
+  ### 🖥️ OS
   [
   ![Arch Linux|EndeavourOS](https://img.shields.io/badge/Arch%20Linux%20|%20Endeavour%20OS-7B3DB9?style=for-the-badge&logo=archlinux&logoColor=white)
   ![KDE](https://img.shields.io/badge/KDE-1C94EB?style=for-the-badge&logo=kde&logoColor=white)
