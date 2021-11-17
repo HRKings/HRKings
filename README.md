@@ -107,9 +107,9 @@
   ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
   ](https://github.com/HRKings)
 
-  ## OS
+  ### OS
   [
-  ![Arch Linux|EndeavourOS](https://img.shields.io/badge/Arch%20Linux|Endeavour%20OS-7B3DB9?style=for-the-badge&logo=archlinux&logoColor=white)
+  ![Arch Linux|EndeavourOS](https://img.shields.io/badge/Arch%20Linux%20|%20Endeavour%20OS-7B3DB9?style=for-the-badge&logo=archlinux&logoColor=white)
   ![KDE](https://img.shields.io/badge/KDE-1C94EB?style=for-the-badge&logo=kde&logoColor=white)
   ](https://github.com/HRKings)
 
