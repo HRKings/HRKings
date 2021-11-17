@@ -31,6 +31,7 @@
 ----
 
   ## 🚀 Languages, technologies, services and tools that I use 💻
+
   ### Databases
   [
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -93,6 +94,12 @@
   ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+  ](https://github.com/HRKings)
+
+  ## OS
+  [
+  ![Arch Linux|EndeavourOS](https://img.shields.io/badge/Arch%20Linux|Endeavour%20OS-7B3DB9?style=for-the-badge&logo=archlinux&logoColor=white)
+  ![KDE](https://img.shields.io/badge/KDE-1C94EB?style=for-the-badge&logo=kde&logoColor=white)
   ](https://github.com/HRKings)
 
   </a>
