@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  ### 📨 How to reach me 🔊
+  ### 📨 Where you can find me 🔊
 
   [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/HRKings)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheHRKings)
