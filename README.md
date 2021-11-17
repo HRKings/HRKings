@@ -105,6 +105,7 @@
   ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+  ![Storybook](https://img.shields.io/badge/Storybook-F2437E?style=for-the-badge&logo=Storybook&logoColor=white)
   ](https://github.com/HRKings)
 
   ### 🖥️ OS
