@@ -50,8 +50,10 @@
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
   ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![DataGrip](https://img.shields.io/badge/Datagrip-white?style=for-the-badge&logo=datagrip&logoColor=black)
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
   ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+  ![Rider](https://img.shields.io/badge/Rider-white?style=for-the-badge&logo=rider&logoColor=black)
   ](https://github.com/HRKings)
 
   ### Languages
