@@ -20,10 +20,6 @@
 
   <a href="https://github.com/HRKings">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HRKings&show_icons=true&count_private=true&bg_color=0D0C15&text_color=ffffff&title_color=FFD700&icon_color=c71c1c&border_radius=0.5rem)
-
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=HRKings&langs_count=10&layout=compact&bg_color=0D0C15&text_color=ffffff&title_color=FFD700&border_radius=0.5rem)
-
   ![Trophies](https://github-profile-trophy.vercel.app/?username=HRKings&rank=SECRET,SSS,SS,S,AAA,AA,A&row=5&column=4&theme=juicyfresh)
 
   </a>
